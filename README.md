@@ -17,7 +17,7 @@ Create magazines with names (name is mutable but should be between 2 to 16 chara
 Getting Started
 Prerequisites You must have Python installed to run this project. The code is compatible with Python 3.x.
 
-Installation Clone this repository to your local machine: git clone https:
+Installation Clone this repository to your local machine: git clone https:git@github.com:ianimbuga/Moringa-FT09-phase-3-code-challenge.git
 
 Navigate into the project folder: Copy code cd python-non-sqlalchemy-code-challenge-articles
 
